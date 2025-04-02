@@ -11,7 +11,9 @@ This repository demonstrates the implementation of all major **Java design patte
 The project is organized into packages representing the three main categories of design patterns:
 
 🧠 Design Patterns Covered
+
 ✅ Creational Patterns
+
 Singleton
 
 Factory Method
